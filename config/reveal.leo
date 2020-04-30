@@ -29,7 +29,39 @@
 </v>
 <v t="leo.20200430133419.1"><vh>week 2</vh>
 <v t="leo.20200430133419.2"><vh>week2</vh></v>
-<v t="leo.20200430133549.1"><vh>week2</vh></v>
+</v>
+<v t="leo.20200430133817.1"><vh>week 2</vh>
+<v t="leo.20200430133817.3"><vh>week2</vh></v>
+</v>
+<v t="leo.20200430133918.1"><vh>week 2</vh>
+<v t="leo.20200430133918.2"><vh>week2</vh></v>
+</v>
+<v t="leo.20200430134109.1"><vh>week 3</vh>
+<v t="leo.20200430134109.2"><vh>week3</vh></v>
+</v>
+<v t="leo.20200430134332.1"><vh>week 4</vh>
+<v t="leo.20200430134332.2"><vh>week4</vh></v>
+</v>
+<v t="leo.20200430134542.1"><vh>week 4</vh>
+<v t="leo.20200430134542.2"><vh>week4</vh></v>
+</v>
+<v t="leo.20200430134604.1"><vh>week 6</vh>
+<v t="leo.20200430134604.2"><vh>week6</vh></v>
+</v>
+<v t="leo.20200430134642.1"><vh>week 6</vh>
+<v t="leo.20200430134642.2"><vh>week6</vh></v>
+</v>
+<v t="leo.20200430134734.1"><vh>week 7</vh>
+<v t="leo.20200430134734.2"><vh>week7</vh></v>
+</v>
+<v t="leo.20200430134800.1"><vh>week 7</vh>
+<v t="leo.20200430134800.2"><vh>week7</vh></v>
+</v>
+<v t="leo.20200430134023.1"><vh>第1次小組會議</vh>
+<v t="leo.20200430134023.2"><vh>第1次小組會議</vh></v>
+</v>
+<v t="leo.20200430135018.1"><vh>第2次小組會議</vh>
+<v t="leo.20200430135018.2"><vh>第2次小組會議</vh></v>
 </v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
@@ -342,7 +374,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200430132926.2">Week1 架設個人網站
+<t tx="leo.20200430132926.2">架設個人網站
 
 1.在自己的github內建立新倉儲cd2020
 
@@ -365,7 +397,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200430133335.2">week 1操作影片
+<t tx="leo.20200430133335.2">架設個人網站操作影片
 
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/efqcu4RTJgo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
@@ -378,7 +410,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200430133419.2">week 2 線上直播會議&amp;將可攜系統中的 python3.7.3 更新至 python3.8.2 版本
+<t tx="leo.20200430133419.2"> 線上直播會議&amp;將可攜系統中的 python3.7.3 更新至 python3.8.2 版本
 
 step1 先在自己資料夾內新增一個cd2020，然後在cd2020內新增一個資料夾data，在data內再新增py382及wscite432、portablegit。
 
@@ -391,7 +423,16 @@ step4 滑到最下面，找到Windows x86-64 executable installer 下載
 step5 開始下載，把pip選項取消，按next把檔案下載至資料夾py382
 
 </t>
-<t tx="leo.20200430133549.1">step6 下載SciTE系統 full 64-bit download，下載完後解壓縮到data下的wscite432
+<t tx="leo.20200430133817.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200430133817.3">step6 下載SciTE系統 full 64-bit download，下載完後解壓縮到data下的wscite432
 
 step7 建立start.bat及stop.bat
 
@@ -405,5 +446,147 @@ step11 執行指令，將python3.8.2版本缺少的模組下載下來
 python get-pip.py
 pip install flask bs4 lxml pelican markdown flask_cors leo
 </t>
+<t tx="leo.20200430133918.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200430133918.2">  將可攜系統中的 python3.7.3 更新至 python3.8.2 版本 操作影片
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/B4yc6xHOxQ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200430134023.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200430134023.2">  第一次小組會議 直播
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ZMKNMympFY0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200430134109.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200430134109.2"> CoppeliaSim User Manual 內容研究
+
+小組研究 http://www.coppeliarobotics.com/helpFiles/index.html 此網址
+</t>
+<t tx="leo.20200430134332.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200430134332.2"> CoppeliaSim User Manual 內容研究
+
+小組研究 http://www.coppeliarobotics.com/helpFiles/index.html 此網址
+</t>
+<t tx="leo.20200430134542.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200430134542.2">解釋如何使用OBS在YOUTUBE上開直播
+
+1.先設定一個場景
+
+2.來源的部分新增一個視訊擷取裝置(鏡頭)與顯示器擷取(螢幕畫面)
+
+3.設定串流金鑰 (YOUTUBE開直播會給一個金鑰)
+
+4.開始串流</t>
+<t tx="leo.20200430134604.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200430134604.2">如何使用OBS在YOUTUBE上開直播操作影片
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/oXHkihfHJQU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200430134642.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200430134642.2">線上遠距離教學被抽到的直播內容
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/PH88cZcM4A0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200430134734.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200430134734.2">練習用Vrep建立四輪車(鍵盤控制)
+
+1.先建立車子本體
+
+2.建立車子輪胎
+
+3.建立傳動
+
+4.設置傳動動力20
+
+5.複製四個輪子並調整
+
+6.開始模擬
+
+7.成功後導入鍵盤控制的程式碼
+
+8.模擬</t>
+<t tx="leo.20200430134800.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200430134800.2">練習用Vrep建立四輪車 操作影片
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ELFAVGx8j1g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200430135018.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200430135018.2">  第二次小組會議 直播
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/IX0Xw1ROTgg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
