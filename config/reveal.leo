@@ -21,8 +21,15 @@
 <v t="leo.20180902120523.9"><vh>封面投影片</vh>
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20200430132926.1"><vh>封面投影片</vh>
+<v t="leo.20200430132926.1"><vh>week1</vh>
 <v t="leo.20200430132926.2"><vh>week 1</vh></v>
+</v>
+<v t="leo.20200430133335.1"><vh>week1</vh>
+<v t="leo.20200430133335.2"><vh>week 1</vh></v>
+</v>
+<v t="leo.20200430133419.1"><vh>week 2</vh>
+<v t="leo.20200430133419.2"><vh>week2</vh></v>
+<v t="leo.20200430133549.1"><vh>week2</vh></v>
 </v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
@@ -335,8 +342,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200430132926.2">Week1 
- 架設個人網站
+<t tx="leo.20200430132926.2">Week1 架設個人網站
 
 1.在自己的github內建立新倉儲cd2020
 
@@ -349,7 +355,55 @@ vertical: body pane on the botton</t>
 5.把cmsimde裡面up_dir資料夾內的東西複製到cd2020資料夾內
 
 6.到cd2020 打python wsgi.py 開始編輯倉儲
+</t>
+<t tx="leo.20200430133335.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200430133335.2">week 1操作影片
+
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/efqcu4RTJgo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200430133419.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200430133419.2">week 2 線上直播會議&amp;將可攜系統中的 python3.7.3 更新至 python3.8.2 版本
+
+step1 先在自己資料夾內新增一個cd2020，然後在cd2020內新增一個資料夾data，在data內再新增py382及wscite432、portablegit。
+
+step2 進入ptrhon官網 
+
+step3 到downloads內點選Latest Python 3 Release - Python 3.8.2
+
+step4 滑到最下面，找到Windows x86-64 executable installer 下載
+
+step5 開始下載，把pip選項取消，按next把檔案下載至資料夾py382
+
+</t>
+<t tx="leo.20200430133549.1">step6 下載SciTE系統 full 64-bit download，下載完後解壓縮到data下的wscite432
+
+step7 建立start.bat及stop.bat
+
+step8 下載MSYS2 msys2-x86_64-20190524.exe 到data下
+
+step9 下載PortableGit 64-bit Git for Windows Portable 到 portablegit下
+
+step10 安裝pip，到https://bootstrap.pypa.io/get-pip.py頁面，另存新檔到data下
+
+step11 執行指令，將python3.8.2版本缺少的模組下載下來
+python get-pip.py
+pip install flask bs4 lxml pelican markdown flask_cors leo
+</t>
 </tnodes>
 </leo_file>
