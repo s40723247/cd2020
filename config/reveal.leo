@@ -21,6 +21,9 @@
 <v t="leo.20180902120523.9"><vh>封面投影片</vh>
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20200430132926.1"><vh>封面投影片</vh>
+<v t="leo.20200430132926.2"><vh>week 1</vh></v>
+</v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -47,10 +50,10 @@
 <t tx="leo.20180902120523.1"></t>
 <t tx="leo.20180902120523.10">## s40723247 投影片
 
-### 40723247
+### 2020 Spring 協同產品設計實習
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [40723247](http://lab.kmol.info/)
 &lt;/small&gt;
 
 [CMSimfly 網誌](./../blog/index.html)
@@ -323,5 +326,30 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
+<t tx="leo.20200430132926.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200430132926.2">Week1 
+ 架設個人網站
+
+1.在自己的github內建立新倉儲cd2020
+
+2.git clone https://github.com/s40723247/cd2020.git
+
+3.git submodule add https://github.com/mdecourse/cmsimde.git
+
+4.到cmsimde,輸入python -m pip install flask_cors
+
+5.把cmsimde裡面up_dir資料夾內的東西複製到cd2020資料夾內
+
+6.到cd2020 打python wsgi.py 開始編輯倉儲
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/efqcu4RTJgo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
