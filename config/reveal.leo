@@ -92,7 +92,7 @@
 ### 2020 Spring 協同產品設計實習
 
 &lt;small&gt;
-Created by [40723247](http://lab.kmol.info/)
+Created by [40723247](https://s40723247.github.io/cd2020/content/index.html)
 &lt;/small&gt;
 
 [CMSimfly 網誌](./../blog/index.html)
