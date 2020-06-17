@@ -33,6 +33,9 @@
 <v t="leo.20200430133817.1"><vh>week 2</vh>
 <v t="leo.20200430133817.3"><vh>week2</vh></v>
 </v>
+<v t="leo.20200618001259.1"><vh>week 2</vh>
+<v t="leo.20200618001259.2"><vh>week2</vh></v>
+</v>
 <v t="leo.20200430133918.1"><vh>week 2</vh>
 <v t="leo.20200430133918.2"><vh>week2</vh></v>
 </v>
@@ -57,11 +60,65 @@
 <v t="leo.20200430134800.1"><vh>week 7</vh>
 <v t="leo.20200430134800.2"><vh>week7</vh></v>
 </v>
+<v t="leo.20200618000301.1"><vh>week 10</vh>
+<v t="leo.20200618000301.2"><vh>week10</vh></v>
+</v>
+<v t="leo.20200618000359.1"><vh>week 10</vh>
+<v t="leo.20200618000359.2"><vh>week10</vh></v>
+</v>
+<v t="leo.20200618000423.1"><vh>week 10</vh>
+<v t="leo.20200618000423.2"><vh>week10</vh></v>
+</v>
+<v t="leo.20200618000440.1"><vh>week 11</vh>
+<v t="leo.20200618000440.2"><vh>week11</vh></v>
+</v>
+<v t="leo.20200618000614.1"><vh>week 11</vh>
+<v t="leo.20200618000614.2"><vh>week11</vh></v>
+</v>
+<v t="leo.20200618000650.1"><vh>week 11</vh>
+<v t="leo.20200618000650.2"><vh>week11</vh></v>
+</v>
+<v t="leo.20200618000711.1"><vh>week 11</vh>
+<v t="leo.20200618000711.2"><vh>week11</vh></v>
+</v>
+<v t="leo.20200618000757.1"><vh>week 12</vh>
+<v t="leo.20200618000757.2"><vh>week12</vh></v>
+</v>
+<v t="leo.20200618000853.1"><vh>week 12</vh>
+<v t="leo.20200618000853.2"><vh>week12</vh></v>
+</v>
+<v t="leo.20200618000905.1"><vh>week 12</vh>
+<v t="leo.20200618000905.2"><vh>week12</vh></v>
+</v>
+<v t="leo.20200618000937.1"><vh>week 12</vh>
+<v t="leo.20200618000937.2"><vh>week12</vh></v>
+</v>
+<v t="leo.20200618000957.1"><vh>week 13</vh>
+<v t="leo.20200618000957.2"><vh>week13</vh></v>
+</v>
+<v t="leo.20200618001020.1"><vh>week 13</vh>
+<v t="leo.20200618001020.2"><vh>week13</vh></v>
+</v>
+<v t="leo.20200618001047.1"><vh>week 13</vh>
+<v t="leo.20200618001047.2"><vh>week13</vh></v>
+</v>
+<v t="leo.20200618001131.1"><vh>week 14</vh>
+<v t="leo.20200618001131.2"><vh>week13</vh></v>
+</v>
 <v t="leo.20200430134023.1"><vh>第1次小組會議</vh>
 <v t="leo.20200430134023.2"><vh>第1次小組會議</vh></v>
 </v>
 <v t="leo.20200430135018.1"><vh>第2次小組會議</vh>
 <v t="leo.20200430135018.2"><vh>第2次小組會議</vh></v>
+</v>
+<v t="leo.20200617235951.1"><vh>第3次小組會議</vh>
+<v t="leo.20200617235951.2"><vh>第3次小組會議</vh></v>
+</v>
+<v t="leo.20200618000119.1"><vh>第4次小組會議</vh>
+<v t="leo.20200618000119.2"><vh>第4次小組會議</vh></v>
+</v>
+<v t="leo.20200618000156.1"><vh>第5次小組會議</vh>
+<v t="leo.20200618000156.2"><vh>第5次小組會議</vh></v>
 </v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
@@ -420,7 +477,7 @@ step3 到downloads內點選Latest Python 3 Release - Python 3.8.2
 
 step4 滑到最下面，找到Windows x86-64 executable installer 下載
 
-step5 開始下載，把pip選項取消，按next把檔案下載至資料夾py382
+
 
 </t>
 <t tx="leo.20200430133817.1">&lt;section data-markdown&gt;
@@ -432,7 +489,8 @@ step5 開始下載，把pip選項取消，按next把檔案下載至資料夾py38
 
 						
 </t>
-<t tx="leo.20200430133817.3">step6 下載SciTE系統 full 64-bit download，下載完後解壓縮到data下的wscite432
+<t tx="leo.20200430133817.3">step5 開始下載，把pip選項取消，按next把檔案下載至資料夾py382
+step6 下載SciTE系統 full 64-bit download，下載完後解壓縮到data下的wscite432
 
 step7 建立start.bat及stop.bat
 
@@ -440,11 +498,8 @@ step8 下載MSYS2 msys2-x86_64-20190524.exe 到data下
 
 step9 下載PortableGit 64-bit Git for Windows Portable 到 portablegit下
 
-step10 安裝pip，到https://bootstrap.pypa.io/get-pip.py頁面，另存新檔到data下
 
-step11 執行指令，將python3.8.2版本缺少的模組下載下來
-python get-pip.py
-pip install flask bs4 lxml pelican markdown flask_cors leo
+
 </t>
 <t tx="leo.20200430133918.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -588,5 +643,310 @@ pip install flask bs4 lxml pelican markdown flask_cors leo
 <t tx="leo.20200430135018.2">  第二次小組會議 直播
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/IX0Xw1ROTgg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200617235951.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200617235951.2">  第三次小組會議 直播
+
+&lt;iframe width="994" height="559" src="https://www.youtube.com/embed/jyIoV8YR-b4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200618000119.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200618000119.2">  第四次小組會議 直播
+
+&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/Dzh81Op7ka0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200618000156.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200618000156.2">  第五次小組會議 直播
+
+&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/4fg3xMuP6eo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200618000301.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200618000301.2">Week10
+gm用戶登陸設定
+
+1.先登入@gm帳號
+至網站 https://console.developers.google.com
+2.許可google API
+3.OAuth同意畫面按下同意
+4.選擇內部用戶類型
+5.建立憑證</t>
+<t tx="leo.20200618000359.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200618000359.2">Week10
+6.在已授權的 JavaScript 來源，新增URL https://localhost 、https://localhost:8443
+7.在已授權的重新導向 URI，新增URL https://localhost 、https://localhost:8443/login/google/
+8.儲存帳號密碼到tmp內檔名改成自己的學號
+9.git clone 老師的CD2020PJ1克隆下來到tmp內
+10.用LEO更改CD2020PJ1資料夾內的cd2020pj1.leo並儲存
+11.打開wsgi.py就會自動導入畫面即完成</t>
+<t tx="leo.20200618000423.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200618000423.2">Week10
+以下是我的練習影片
+
+&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/9xAZt_WdNAs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200618000440.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200618000440.2">Week11
+Ubuntu設置
+1.先下載事前資料
+2.匯入ubuntu
+3.設定虛擬主機的網路埠號
+4.啟動ubuntu
+5.輸入密碼kmol2020
+6.輸入xterm和開啟
+</t>
+<t tx="leo.20200618000614.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200618000614.2">Week11
+7.輸入ls查看內容
+8.cd coppeliasim4_rev4-&gt;ls-&gt;cd CoppeliaSim_Edu_v4_0_0_Ubuntu18_04-&gt;ls-&gt;./coppeliaSim.sh
+9.打開檔案sdc.ttt
+10.將檔案中的car_model.py放入編譯器執行
+11.完成
+</t>
+<t tx="leo.20200618000650.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200618000650.2">Week11
+以下是我的練習影片
+
+&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/9xAZt_WdNAs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200618000711.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200618000711.2">Week11
+老師隨機抽點每組各9個人，大家一起協同維護網站。
+
+分組倉儲 : https://github.com/mdecourse/cdbw12-1
+
+分組網站 : http://mde.tw/cdbw12-1/content/index.html
+</t>
+<t tx="leo.20200618000757.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200618000757.2">Week12
+IPv4 Ubuntu對外連線設定操作
+1. 先開啟VirtualBox並用上次的cd2020pj1，喜好設定--&gt;網路--&gt;新增--&gt;連接阜轉送
+
+2. 主機IP打127.0.0.1，客體IP 10.0.2.15 主機連接阜分別為19999、22、17443、18443客體連接阜分別為19999、22、7443、8443
+
+3.設定--&gt;網路--&gt;改成NAT網路
+4.啟動虛擬主機</t>
+<t tx="leo.20200618000853.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200618000853.2">Week12
+5.輸入密碼kmol2020，點選LXTerminal
+
+6.輸入--&gt;iconfig--&gt;sudo apt net-tools --&gt;輸入密碼kmol2020
+
+7.打cd tmp --&gt;ls --&gt;輸入ping 127.0.0.1測試
+
+8.進入cd2020pj1--&gt;git pull--&gt;sudo vi wsgi.py
+
+9.把host的地方改成10.0.2.4 --&gt;按ESC--&gt;輸入wq儲存</t>
+<t tx="leo.20200618000905.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200618000905.2">Week12
+10.開啟LEO--&gt;打開cd2020pj1.leo--&gt;點選NAV尋找allowExt
+
+11.點fileuploadfrom，第10行新增一個ttt檔，完成後存儲並關閉leo
+
+12.在tmp新增oauth_scrum.txt，打sudo vi oauth_scrum.txt
+
+13.按i編輯，內容先都可以，接著按Esc並輸入:wq存儲</t>
+<t tx="leo.20200618000937.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200618000937.2">Week12
+14.輸入python3 wsgi.py
+
+15.帳號及密碼都為admin，點fileuploadform，選要上傳的ttt檔
+
+16.點選download list檢查檔案是否上傳完成
+
+&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/IDJYCFLnX1c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200618000957.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200618000957.2">Week13
+Bridged IPv6 遠端控制設定
+
+1.首先設定IPV6的內容
+
+2.在喜好設定設定IPV6參數
+
+3.啟動虛擬主機 輸入密碼
+
+4.cd tmp -&gt;cd cd2020pj1 -&gt;git pull -&gt; ls -&gt;cd docs -&gt; cd cmsimde -&gt; vi wsgi.py
+
+5.更改host成自己主機IP</t>
+<t tx="leo.20200618001020.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200618001020.2">Week13
+6.打開putty輸入想要連線的IP並設定
+
+7.OPEN
+
+8.輸入帳號密碼kmol2020
+
+9.打開XLaunch
+
+10.輸入xterm
+
+11.cd tmp -&gt;cd cd2020pj1 -&gt;git pull -&gt; ls -&gt;cd docs -&gt; cd cmsimde -&gt; vi wsgi.py 即可</t>
+<t tx="leo.20200618001047.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200618001047.2">Week13
+以下是我的練習影片
+&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/G-w5wpcyJ08" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200618001131.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200618001131.2">Week14
+老師每組隨機抽3人 3個mini project  我被抽到第三組
+
+mini project 3 :
+
+http://mde.tw/cdbw14-3 
+
+https://github.com/mdecourse/cdbw14-3.git 
+
+commit紀錄 : https://github.com/mdecourse/cdbw14-3/commits/master</t>
+<t tx="leo.20200618001259.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200618001259.2">step10 安裝pip，到https://bootstrap.pypa.io/get-pip.py頁面，另存新檔到data下
+
+step11 執行指令，將python3.8.2版本缺少的模組下載下來
+python get-pip.py
+pip install flask bs4 lxml pelican markdown flask_cors leo
+</t>
 </tnodes>
 </leo_file>
