@@ -689,13 +689,18 @@ step9 下載PortableGit 64-bit Git for Windows Portable 到 portablegit下
 						
 </t>
 <t tx="leo.20200618000301.2">Week10
+
 gm用戶登陸設定
 
 1.先登入@gm帳號
 至網站 https://console.developers.google.com
+
 2.許可google API
+
 3.OAuth同意畫面按下同意
+
 4.選擇內部用戶類型
+
 5.建立憑證</t>
 <t tx="leo.20200618000359.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -707,12 +712,16 @@ gm用戶登陸設定
 						
 </t>
 <t tx="leo.20200618000359.2">Week10
+
 6.在已授權的 JavaScript 來源，新增URL https://localhost 、https://localhost:8443
+
 7.在已授權的重新導向 URI，新增URL https://localhost 、https://localhost:8443/login/google/
+
 8.儲存帳號密碼到tmp內檔名改成自己的學號
+
 9.git clone 老師的CD2020PJ1克隆下來到tmp內
-10.用LEO更改CD2020PJ1資料夾內的cd2020pj1.leo並儲存
-11.打開wsgi.py就會自動導入畫面即完成</t>
+
+</t>
 <t tx="leo.20200618000423.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -723,6 +732,11 @@ gm用戶登陸設定
 						
 </t>
 <t tx="leo.20200618000423.2">Week10
+
+10.用LEO更改CD2020PJ1資料夾內的cd2020pj1.leo並儲存
+
+11.打開wsgi.py就會自動導入畫面即完成
+
 以下是我的練習影片
 
 &lt;iframe width="556" height="310" src="https://www.youtube.com/embed/9xAZt_WdNAs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
@@ -736,13 +750,20 @@ gm用戶登陸設定
 						
 </t>
 <t tx="leo.20200618000440.2">Week11
+
 Ubuntu設置
+
 1.先下載事前資料
+
 2.匯入ubuntu
+
 3.設定虛擬主機的網路埠號
+
 4.啟動ubuntu
+
 5.輸入密碼kmol2020
-6.輸入xterm和開啟
+
+6.輸入xterm&amp;開啟
 </t>
 <t tx="leo.20200618000614.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -754,10 +775,15 @@ Ubuntu設置
 						
 </t>
 <t tx="leo.20200618000614.2">Week11
+
 7.輸入ls查看內容
+
 8.cd coppeliasim4_rev4-&gt;ls-&gt;cd CoppeliaSim_Edu_v4_0_0_Ubuntu18_04-&gt;ls-&gt;./coppeliaSim.sh
+
 9.打開檔案sdc.ttt
+
 10.將檔案中的car_model.py放入編譯器執行
+
 11.完成
 </t>
 <t tx="leo.20200618000650.1">&lt;section data-markdown&gt;
@@ -770,6 +796,7 @@ Ubuntu設置
 						
 </t>
 <t tx="leo.20200618000650.2">Week11
+
 以下是我的練習影片
 
 &lt;iframe width="556" height="310" src="https://www.youtube.com/embed/9xAZt_WdNAs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
@@ -784,6 +811,7 @@ Ubuntu設置
 						
 </t>
 <t tx="leo.20200618000711.2">Week11
+
 老師隨機抽點每組各9個人，大家一起協同維護網站。
 
 分組倉儲 : https://github.com/mdecourse/cdbw12-1
@@ -800,12 +828,15 @@ Ubuntu設置
 						
 </t>
 <t tx="leo.20200618000757.2">Week12
+
 IPv4 Ubuntu對外連線設定操作
+
 1. 先開啟VirtualBox並用上次的cd2020pj1，喜好設定--&gt;網路--&gt;新增--&gt;連接阜轉送
 
 2. 主機IP打127.0.0.1，客體IP 10.0.2.15 主機連接阜分別為19999、22、17443、18443客體連接阜分別為19999、22、7443、8443
 
 3.設定--&gt;網路--&gt;改成NAT網路
+
 4.啟動虛擬主機</t>
 <t tx="leo.20200618000853.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -817,6 +848,7 @@ IPv4 Ubuntu對外連線設定操作
 						
 </t>
 <t tx="leo.20200618000853.2">Week12
+
 5.輸入密碼kmol2020，點選LXTerminal
 
 6.輸入--&gt;iconfig--&gt;sudo apt net-tools --&gt;輸入密碼kmol2020
@@ -836,6 +868,7 @@ IPv4 Ubuntu對外連線設定操作
 						
 </t>
 <t tx="leo.20200618000905.2">Week12
+
 10.開啟LEO--&gt;打開cd2020pj1.leo--&gt;點選NAV尋找allowExt
 
 11.點fileuploadfrom，第10行新增一個ttt檔，完成後存儲並關閉leo
@@ -853,6 +886,7 @@ IPv4 Ubuntu對外連線設定操作
 						
 </t>
 <t tx="leo.20200618000937.2">Week12
+
 14.輸入python3 wsgi.py
 
 15.帳號及密碼都為admin，點fileuploadform，選要上傳的ttt檔
@@ -870,6 +904,7 @@ IPv4 Ubuntu對外連線設定操作
 						
 </t>
 <t tx="leo.20200618000957.2">Week13
+
 Bridged IPv6 遠端控制設定
 
 1.首先設定IPV6的內容
@@ -891,6 +926,7 @@ Bridged IPv6 遠端控制設定
 						
 </t>
 <t tx="leo.20200618001020.2">Week13
+
 6.打開putty輸入想要連線的IP並設定
 
 7.OPEN
@@ -912,7 +948,9 @@ Bridged IPv6 遠端控制設定
 						
 </t>
 <t tx="leo.20200618001047.2">Week13
+
 以下是我的練習影片
+
 &lt;iframe width="556" height="310" src="https://www.youtube.com/embed/G-w5wpcyJ08" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200618001131.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -924,6 +962,7 @@ Bridged IPv6 遠端控制設定
 						
 </t>
 <t tx="leo.20200618001131.2">Week14
+
 老師每組隨機抽3人 3個mini project  我被抽到第三組
 
 mini project 3 :
