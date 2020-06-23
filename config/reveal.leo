@@ -105,6 +105,18 @@
 <v t="leo.20200618001131.1"><vh>week 14</vh>
 <v t="leo.20200618001131.2"><vh>week13</vh></v>
 </v>
+<v t="leo.20200623173623.1"><vh>week 15</vh>
+<v t="leo.20200623173623.2"><vh>week15</vh></v>
+</v>
+<v t="leo.20200623173717.1"><vh>week 16</vh>
+<v t="leo.20200623173717.2"><vh>week15</vh></v>
+</v>
+<v t="leo.20200623173749.1"><vh>week 16</vh>
+<v t="leo.20200623173749.2"><vh>week16</vh></v>
+</v>
+<v t="leo.20200623173846.1"><vh>week 16</vh>
+<v t="leo.20200623173846.2"><vh>week16</vh></v>
+</v>
 <v t="leo.20200430134023.1"><vh>第1次小組會議</vh>
 <v t="leo.20200430134023.2"><vh>第1次小組會議</vh></v>
 </v>
@@ -119,6 +131,9 @@
 </v>
 <v t="leo.20200618000156.1"><vh>第5次小組會議</vh>
 <v t="leo.20200618000156.2"><vh>第5次小組會議</vh></v>
+</v>
+<v t="leo.20200623173938.1"><vh>final project</vh>
+<v t="leo.20200623173938.2"><vh>week16</vh></v>
 </v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
@@ -986,6 +1001,106 @@ commit紀錄 : https://github.com/mdecourse/cdbw14-3/commits/master</t>
 step11 執行指令，將python3.8.2版本缺少的模組下載下來
 python get-pip.py
 pip install flask bs4 lxml pelican markdown flask_cors leo
+</t>
+<t tx="leo.20200623173623.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623173623.2">Week15
+
+上課分組協同 我被抽到第一組
+
+分組網站：http://mde.tw/cdbw15-1/content/index.html
+
+分組倉儲：https://github.com/mdecourse/cdbw15-1</t>
+<t tx="leo.20200623173717.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623173717.2">Week16
+
+IPv6 連個人倉儲
+
+1.IPv6網路設定及虛擬主機網路設定
+
+2.開啟虛擬主機
+
+3.密碼kmol2020
+
+4.開Lxterminal，在tmp下git clone自己倉儲
+
+5.輸入ifconfig查詢IPv6的地址
+
+</t>
+<t tx="leo.20200623173749.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623173749.2">Week16
+
+6.進入cd2020/cmsimde ，輸入sudo vi wsgi.py將host改為IPv6地址
+
+7.存儲，並輸入python3 wsgi.py啟動。
+
+8.輸入網址https://[2001:288:6004:17:2020:2:0:7247]:19443
+
+
+
+
+</t>
+<t tx="leo.20200623173846.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623173846.2">Week16
+
+操作影片
+
+&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/xFRsqRW6_Fs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+
+
+</t>
+<t tx="leo.20200623173938.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623173938.2">Week16
+
+
+
+
+
+
+
 </t>
 </tnodes>
 </leo_file>
