@@ -117,6 +117,9 @@
 <v t="leo.20200623173846.1"><vh>week 16</vh>
 <v t="leo.20200623173846.2"><vh>week16</vh></v>
 </v>
+<v t="leo.20200623181134.1"><vh>week 18</vh>
+<v t="leo.20200623181134.2"><vh>week18</vh></v>
+</v>
 <v t="leo.20200430134023.1"><vh>第1次小組會議</vh>
 <v t="leo.20200430134023.2"><vh>第1次小組會議</vh></v>
 </v>
@@ -1096,6 +1099,26 @@ IPv6 連個人倉儲
 <t tx="leo.20200623173938.2">Final project
 
 https://s40723247.github.io/cd2020/downloads/Final%20project.pdf
+
+
+
+
+
+</t>
+<t tx="leo.20200623181134.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623181134.2">Week16
+
+期末報告影片 : 
+
+&lt;iframe width="560" height="314" src="https://www.youtube.com/embed/Ae7nBWRzUKE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 
 
