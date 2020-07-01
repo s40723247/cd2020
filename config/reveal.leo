@@ -167,7 +167,6 @@
 Created by [40723247](https://s40723247.github.io/cd2020/content/index.html)
 &lt;/small&gt;
 
-[CMSimfly 網誌](./../blog/index.html)
 
 
 </t>
@@ -1082,7 +1081,7 @@ IPv6 連個人倉儲
 </t>
 <t tx="leo.20200623173938.2">Final project
 
-https://s40723247.github.io/cd2020/downloads/Final%20project.pdf
+[Final project](https://s40723247.github.io/cd2020/downloads/Final%20project.pdf)
 
 
 
@@ -1098,7 +1097,7 @@ https://s40723247.github.io/cd2020/downloads/Final%20project.pdf
 
 						
 </t>
-<t tx="leo.20200623181134.2">Week16
+<t tx="leo.20200623181134.2">Week18
 
 期末報告影片 : 
 
