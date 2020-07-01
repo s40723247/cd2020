@@ -42,9 +42,6 @@
 <v t="leo.20200430134109.1"><vh>week 3</vh>
 <v t="leo.20200430134109.2"><vh>week3</vh></v>
 </v>
-<v t="leo.20200430134332.1"><vh>week 4</vh>
-<v t="leo.20200430134332.2"><vh>week4</vh></v>
-</v>
 <v t="leo.20200430134542.1"><vh>week 4</vh>
 <v t="leo.20200430134542.2"><vh>week4</vh></v>
 </v>
@@ -284,7 +281,7 @@ make.start()
 <t tx="leo.20180902120523.5">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;
-CMSimfly 網際內容管理
+s40723247 cd2020
 &lt;/title&gt;
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -553,19 +550,6 @@ step9 下載PortableGit 64-bit Git for Windows Portable 到 portablegit下
 						
 </t>
 <t tx="leo.20200430134109.2"> CoppeliaSim User Manual 內容研究
-
-小組研究 http://www.coppeliarobotics.com/helpFiles/index.html 此網址
-</t>
-<t tx="leo.20200430134332.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20200430134332.2"> CoppeliaSim User Manual 內容研究
 
 小組研究 http://www.coppeliarobotics.com/helpFiles/index.html 此網址
 </t>
